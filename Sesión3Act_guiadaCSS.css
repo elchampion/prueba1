@@ -118,10 +118,28 @@ Pero en el caso de #secundario si tuve que hacer un selector compuesto*/
     border-bottom: 1px solid #C5C5C5;
 }
   
+/* Ejercicio 3: ahora se van a añadir colores a imagenes de fondo a la página web*/
 
+#noticias, #pie{
+    background-color: #F8F8F8;
+}
 
+#publicidad{
+    background-color: #FFF6CD;
+}
 
+#contenido #secundario h2{
+    background-color: #DB905C;
+    padding: .2em
+}
 
+#menu{
+    background-image: url(./fondo_menu_actguiadaCSS.gif);
+}
+
+#cabecera h1{
+    background-image: url(./logo_actguiadaCSS.gif);
+}
 
 
 
